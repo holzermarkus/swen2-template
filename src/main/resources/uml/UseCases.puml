@@ -1,0 +1,8 @@
+@startuml
+
+User -> (createUser)
+User -> (viewList)
+User -> (search)
+
+
+@enduml
