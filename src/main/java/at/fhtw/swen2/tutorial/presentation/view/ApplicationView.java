@@ -2,7 +2,6 @@ package at.fhtw.swen2.tutorial.presentation.view;
 
 import at.fhtw.swen2.tutorial.presentation.StageAware;
 import at.fhtw.swen2.tutorial.presentation.events.ApplicationShutdownEvent;
-import at.fhtw.swen2.tutorial.presentation.view.AboutDialogView;
 import javafx.beans.property.SimpleObjectProperty;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
